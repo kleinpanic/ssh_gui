@@ -1,0 +1,4 @@
+ssh klein@192.168.1.125
+ssh -p 8800 klein@22.229.157.232
+ssh klein@192.168.1.137
+ssh kernalpanic@192.168.1.112
